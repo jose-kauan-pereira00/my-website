@@ -1,0 +1,23 @@
+body{
+    background-color: #060114;
+}
+
+h1{
+    font-size: x-large;
+    color: #7aa9d1;
+}
+
+.hello{
+    color: #174DB1;
+    font-size: medium;
+
+}
+
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    box-sizing: border-box;
+}
+
