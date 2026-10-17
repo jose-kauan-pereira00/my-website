@@ -252,6 +252,11 @@ body nav#navigation .social-links li:nth-child(4) svg:hover path:nth-child(2) {
   stroke: var(--paragraph-2);
 }
 
+h2{
+  color: var(--primary-color);
+  font-size: 4.5rem;
+}
+
 /*===== NAVIGATION ===================================*/
 
 nav {
