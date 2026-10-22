@@ -1,6 +1,6 @@
 # José Kauan - Developer
 Just a simple website developed in HTML and CSS to serve as my portfolio.
-[Link](https://jose-kauan-pereira00.github.io/my-website/)
+[Link](https://josekauanpereira.vercel.app/)
 
 ## References:
 
